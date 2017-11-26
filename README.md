@@ -1,2 +1,2 @@
-# sko.gihub.io
+# sko.github.io
 A website for shawna
