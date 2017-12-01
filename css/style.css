@@ -101,8 +101,8 @@ h1 span{
 	font-size:32px;
 }
 
-.yellow{
-	color:#ff9c00;
+.blue{
+	color:#2cc8e8;
 	font-size:56px;
 }
 
@@ -141,7 +141,7 @@ input[type="submit"]{
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	font-family: 'Oswald', Arial;
-	background: #ff9c00;
+	background: #2cc8e8;
 	color: #000;
 	border: none;
 	font-size: 24px;
