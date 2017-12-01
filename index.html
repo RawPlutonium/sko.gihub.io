@@ -16,8 +16,10 @@
 <script src="js/jquery.countdown.js"></script>
 <script>
 $(function () {
-	$('#defaultCountdown').countdown({until: new Date(2018, 1-20, 20)}); 
-
+	var newYear = new Date();
+	newYear = new Date(newYear.getFullYear() + 2, 1 - 1, 1); 
+	$('#defaultCountdown').countdown({until: newYear}); 
+	//Replace above date with your own, to find out more visit http://keith-wood.name/countdown.html
 });
 </script>
 <!--/JS-->
